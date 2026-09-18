@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @KarraAnu
-- 👀 I’m interested in sports, Deep Learning, and working out
-- 🌱 I’m currently learning Computer Science at University of California Irvine
+- 👋 Hi, I’m Anurag
 - 💞️ I’m looking to collaborate on any machine learning project
-- 📫 How to reach *(me->email) = anuragkarra@gmail.com
+- 📫 How to reach me = anuragkarra@gmail.com
 
 <!---
 KarraAnu/KarraAnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
